@@ -1,0 +1,10 @@
+# Ambientes virtuais e caches
+__pycache__/
+.venv/
+env/
+venv/
+.DS_Store
+
+# Configurações locais do Streamlit e banco local
+.streamlit/secrets.toml
+consultoria_erp.db
